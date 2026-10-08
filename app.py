@@ -5,3 +5,5 @@ def calculate_emission(activity, emission_factor):
 
 def calculate_electricity_emission(kwh, emission_factor):
     return kwh * emission_factor
+
+print("ESG Calculator")
